@@ -1,7 +1,7 @@
 # Koldskål
 A classic danish dessert served usually during the summer
 
-## Contents
+## Ingredients
 -[] 1 L Buttermilk
 -[] 2 Eggs
 -[] 2 tsbp Sugar
