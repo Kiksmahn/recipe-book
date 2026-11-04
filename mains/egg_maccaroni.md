@@ -3,14 +3,14 @@
 A dish loved by kids, me included @enryh-testing. Fried
 pasta with eggs.
 
-## Ingrediant
+## Ingrediants
 
 - 500gr of pasta
 - 4 eggs
 - cooking oil (sunflower or rape seed oil)
 - optional: some tofu or sausage
 
-## Instruction
+## Instructions
 
 - **cook** the pasta rather al-dente
 - optional: cut tofu or sausage into cubes
