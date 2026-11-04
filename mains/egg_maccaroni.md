@@ -3,7 +3,7 @@
 A dish loved by kids, me included @enryh-testing. Fried
 pasta with eggs.
 
-## Ingrediants
+## Ingredients
 
 - 500gr of pasta
 - 4 eggs
